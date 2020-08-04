@@ -1,10 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I love to learn, develop and experiment with programs and awesome things on internet.\n
+I love to learn, develop and experiment with programs and awesome things on internet<br>
 I create blogs and tutorials and helps others to enter programing world.
 
 #NOCODELOVER
 
-• Currently working on [Casagbic](https://casagbic.com) - A No-code Android app builder
+• Currently working on [Casagbic](https://casagbic.com) - A No-code Android app builder<br>
 • Learning everything possible
 
 
