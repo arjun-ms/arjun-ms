@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm [Arjun](https://arjun-ms.github.io)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I love to learn, develop and experiment with programs and awesome things on internet<br>
 I create [blogs and tutorials](https://cybergenie.tech) and helps others to enter programing world.
 
