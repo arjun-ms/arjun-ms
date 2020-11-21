@@ -5,7 +5,7 @@ I love to learn, develop and experiment with programs and awesome things on inte
 
 
 ### Languages
-<img src=https://image.flaticon.com/icons/svg/226/226777.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/1822/1822899.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919827.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919826.svg width="30px"> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg width="30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" width=30px height=35px>
+<img src=https://image.flaticon.com/icons/svg/226/226777.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/1822/1822899.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919827.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919826.svg width="30px"> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg width="30px"> 
 
 <br/>
 
