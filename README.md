@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer and a Entrepreneur!
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
-- I'm ❤️ to connect with more people.
+- I ❤️ to connect with more people.
 - 2020 Goals: Contribute more to Open Source Projects.
 - Fun Fact: I ❤️ Football.
 
