@@ -9,5 +9,5 @@ I love to learn, develop and experiment with programs and awesome things on inte
 
 <br/>
 
-[![Jerin Jacob's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
