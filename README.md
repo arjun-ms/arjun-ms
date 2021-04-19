@@ -12,8 +12,8 @@
 <img src=https://image.flaticon.com/icons/svg/226/226777.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/1822/1822899.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919827.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919826.svg width="30px"> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg width="30px"> 
 
 ### Stats
-[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arjun-ms)  
 
 ### Give me a buzz
