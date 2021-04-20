@@ -29,7 +29,10 @@
 <br>
 
 ### Give me a buzz
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/arjun-ms)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/arjunms)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/the-arjun-ms//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/azzuri07//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/azzuri_07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13824584/arjun-m-s)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arjun-ms.github.io/)  
+[<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/https://github.com/arjun-ms)
+[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/the-arjun-ms//) 
+[<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/azzuri07//)  
+[<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/azzuri_07)  
 
 <br>
 <br>
