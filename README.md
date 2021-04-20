@@ -9,7 +9,11 @@
 - Fun Fact: I ❤️ Football.
 
 ### Languages
-<img src=https://image.flaticon.com/icons/svg/226/226777.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/1822/1822899.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919827.svg width="30px"> <img src=https://image.flaticon.com/icons/svg/919/919826.svg width="30px"> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg width="30px"> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
 ### Stats
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
