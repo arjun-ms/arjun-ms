@@ -29,10 +29,10 @@
 <br>
 
 ### Give me a buzz
-[<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/https://github.com/arjun-ms)
+[<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/arjun-ms)
 [<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/the-arjun-ms) 
 [<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/azzuri07)  
-[<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/azzuri_07)  
+[<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/azzuri_07)  
 
 <br>
 <br>
