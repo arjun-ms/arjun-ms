@@ -37,4 +37,4 @@
 <br>
 <br>
 
-[donate](https://gpay.app.goo.gl/pay-AkwXsW9iPZe)
+
