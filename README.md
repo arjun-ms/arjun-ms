@@ -36,4 +36,4 @@
 
 <br>
 <br>
-![Donate](https://www.freepik.com/free-vector/drawn-delicious-chicken-biryani_10819342.htm#&position=1)
+![Donate](https://www.flaticon.com/free-icon/donation_4812281?term=donation&related_id=4812281#)
