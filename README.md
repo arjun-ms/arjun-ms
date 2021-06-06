@@ -37,4 +37,4 @@
 <br>
 <br>
 
-[donate](upi://pay?pa=arjunachu123.aa@okaxis&pn=Arjun%20M%20S&aid=uGICAgICN1ra1ew)
+[donate](https://gpay.app.goo.gl/pay-AkwXsW9iPZe)
