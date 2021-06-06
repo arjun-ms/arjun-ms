@@ -36,4 +36,4 @@
 
 <br>
 <br>
-![Donate](<div>Icons made by <a href="" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>)
+![Donate](donation.png)
