@@ -38,3 +38,5 @@
 <br>
 
 <a href="upi://pay?pa=arjunachu123.aa@okaxis&pn=Arjun%20M%20S&aid=uGICAgICN1ra1ew" target="_blank"> <img align="left" alt="donation" height ="42px"  src="https://image.flaticon.com/icons/png/512/4812/4812281.png"> </a>
+
+[<img src='https://image.flaticon.com/icons/png/512/4812/4812281.png' alt='donations' height='40'>](upi://pay?pa=arjunachu123.aa@okaxis&pn=Arjun%20M%20S&aid=uGICAgICN1ra1ew)
