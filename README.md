@@ -36,4 +36,4 @@
 
 <br>
 <br>
-![Donate](upi://pay?pa=arjunachu123.aa@okaxis&pn=Arjun%20M%20S&aid=uGICAgICN1ra1ew)
+![Donate](https://www.freepik.com/free-vector/drawn-delicious-chicken-biryani_10819342.htm#&position=1)
