@@ -36,4 +36,4 @@
 
 <br>
 <br>
-![Donate](donation.png)
+![Donate](/donation.png)
