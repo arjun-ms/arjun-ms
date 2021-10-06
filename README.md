@@ -23,8 +23,10 @@
 ### Stats
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-ms&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-ms&" alt="arjun-ms" /></p>
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arjun-ms&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Arjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=arjun-ms&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
 
