@@ -1,4 +1,4 @@
-## Hi there, I'm [Arjun](https://arjun-ms.github.io)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm [Arjun M S](https://arjun-ms.github.io)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/arjun-ms)  
 <br>
 
