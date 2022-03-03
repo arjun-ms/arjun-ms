@@ -5,7 +5,7 @@
 ## I'm a Student, Developer and an Entrepreneur!
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 - I ❤️ to connect with more people.
-- 2021 Goals: Learn more.
+- 2022 Goals: Learn more.
 - Fun Fact: I ❤️ Football.
 <br>
 <br>
