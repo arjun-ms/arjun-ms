@@ -1,7 +1,8 @@
 ## Hi there, I'm [Arjun M S](https://arjun-ms.github.io)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Arjun_M_S_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer"><img
+/></a>
+&nbsp;&nbsp;<a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arjun-ms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br>
 
