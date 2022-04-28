@@ -49,10 +49,10 @@ src="https://img.shields.io/github/followers/arjun-ms?logo=github&style=for-the-
 <br>
 
 ### Give me a buzz
-[<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/arjun-ms)
-[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/the-arjun-ms) 
-[<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/azzuri07)  
-[<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/azzuri_07)  
+<p align="left"> 
+<a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/the-arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCjrImEhp1n8vVW4NzuFRsiA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
 <br>
 <!-- 
