@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/arjun-ms?logo=github&style=for-the-
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="42px"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="42px" alt="Flask" /></a>
 &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="42px" alt="MySQL" /></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="42px" alt="MySQL" /></a>&nbsp;&nbsp;
 <a href="https://html.com/" target="_blank"> <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -55,11 +55,11 @@ src="https://img.shields.io/github/followers/arjun-ms?logo=github&style=for-the-
 
 ### Give me a buzz
 <p align="left"> 
-<a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
-&nbsp;<a href="https://www.linkedin.com/in/the-arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-&nbsp;<a href="http://www.medium.com/@arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-&nbsp;<a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-&nbsp;<a href="https://www.youtube.com/channel/UCjrImEhp1n8vVW4NzuFRsiA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/the-arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;<a href="http://www.medium.com/@arjun-ms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;<a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCjrImEhp1n8vVW4NzuFRsiA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
 <br>
