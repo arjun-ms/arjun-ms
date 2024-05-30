@@ -100,7 +100,7 @@
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [From Slow to Speedy: Tips for Making Your Python Code More Efficient](https://levelup.gitconnected.com/from-slow-to-speedy-tips-for-making-your-python-code-more-efficient-b98e22ff3a1f?source=rss-e562ac3acd51------2)
-- [Build a Command Line Tool to Resize and Change Formats of Images Using Python](https://betterprogramming.pub/build-a-command-line-tool-to-resize-and-change-formats-of-images-using-python-40c1149ea80e?source=rss-e562ac3acd51------2)
+- [Build a Command Line Tool to Resize and Change Formats of Images Using Python](https://medium.com/better-programming/build-a-command-line-tool-to-resize-and-change-formats-of-images-using-python-40c1149ea80e?source=rss-e562ac3acd51------2)
 - [Static Typing VS Dynamic Typing: The Difference Explained](https://medium.com/@arjun-ms/static-typing-vs-dynamic-typing-the-difference-explained-9b6c847ac1ee?source=rss-e562ac3acd51------2)
 - [7 high-income skills to earn $5000 a month on the side! &lpar;Mini blog&rpar;](https://medium.com/@arjun-ms/7-high-income-skills-to-earn-5000-a-month-on-the-side-mini-blog-1436c3ebb76e?source=rss-e562ac3acd51------2)
 <!-- BLOG-POST-LIST:END -->
