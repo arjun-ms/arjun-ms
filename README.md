@@ -99,10 +99,10 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Natural Language Processing 101](https://medium.com/@arjun-ms/natural-language-processing-101-ca39551fefba?source=rss-e562ac3acd51------2)
 - [Lessons I learnt from ‘Do Epic Shit’ by Ankur Warikoo](https://medium.com/@arjun-ms/lessons-i-learnt-from-do-epic-shit-by-ankur-warikoo-65b9729776a9?source=rss-e562ac3acd51------2)
 - [From Slow to Speedy: Tips for Making Your Python Code More Efficient](https://levelup.gitconnected.com/from-slow-to-speedy-tips-for-making-your-python-code-more-efficient-b98e22ff3a1f?source=rss-e562ac3acd51------2)
 - [Build a Command Line Tool to Resize and Change Formats of Images Using Python](https://medium.com/better-programming/build-a-command-line-tool-to-resize-and-change-formats-of-images-using-python-40c1149ea80e?source=rss-e562ac3acd51------2)
-- [Static Typing VS Dynamic Typing: The Difference Explained](https://medium.com/@arjun-ms/static-typing-vs-dynamic-typing-the-difference-explained-9b6c847ac1ee?source=rss-e562ac3acd51------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <br>
