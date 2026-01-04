@@ -95,7 +95,7 @@
 | ------------- | ------------- |
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arjun-ms&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=arjun-ms&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arjun-ms&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
