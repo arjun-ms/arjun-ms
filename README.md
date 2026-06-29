@@ -15,84 +15,27 @@
 </a>
 <br>
 
-## I'm a Student, Developer and an Entrepreneur
+## I'm a Software Engineer and a Curious Guy
 
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 - I ❤️ to connect with more people.
-- 2022 Goals: Learn more.
 - Fun Fact: I ❤️ Football.
 <br>
 
-## Languages and Tools
+## Tech Stack & Tools 🛠️ 
 
-<p align="left">
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank">
-        <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <!-- C -->
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="42px" alt="C" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="42px" alt="Java" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="42px">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="42px" alt="Flask" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://html.com/" target="_blank">
-        <img align="left" alt="Html" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
-        <img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="42px" alt="Heroku" />
-    </a>
-</p>
+*   **Languages:**   Python, SQL, JavaScript
+*   **AI/ML Ecosystem:**   LangChain, RAG, OpenAI/Anthropic APIs, ChromaDB, Vector Databases, PyTorch
+*   **Backend Frameworks:**   FastAPI, Django REST Framework, Frappe, Flask
+*   **Infrastructure & DevOps:**   Docker, PostgreSQL, Redis, RabbitMQ, GitHub Actions
+*   **Frontend (For full-stack needs):**   React.js, Next.js, Tailwind CSS
+  
 <br>
 
 
 ## Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-ms&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Anurag's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-ms&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
-| ------------- | ------------- |
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=arjun-ms&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -114,7 +57,7 @@
 <br>
 
 <!-- SOCIAL HANDLES -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a>
@@ -127,7 +70,11 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
 
-</p>
+</p> -->
+
+- **LinkedIn:** [linkedin.com/in/the-arjun-ms](https://linkedin.com/in/the-arjun-ms)
+- **X / Twitter:** [x.com/Arjun_M_S_](https://x.com/Arjun_M_S_)
+- **Email:** [arjunms.official@gmail.com](mailto:arjunms.official@gmail.com)
 
 <br>
 
